@@ -1,3 +1,6 @@
-$(function {
-	$(".post .info").corner("5px");
+$(document).ready(function () {
+	if(jQuery.browser.msie )
+	{
+		$(".post .info").corner("10px");
+	}
 });
