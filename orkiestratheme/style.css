@@ -123,15 +123,34 @@ body {
 .postcontent del {
     text-decoration: line-through;
 }
-
+/*
 .postcontent .alignleft {
     float: left;
     
 }
 
+.postcontent .aligncenter{
+    text-align:center;
+}
+
 .postcontent .alignright {
-    float: right;
-    
+    float: right;    
+}*/
+.postcontent .alignleft {
+	display: inline;
+	float: left;
+	
+}
+.postcontent .alignright {
+	display: inline;
+	float: right;
+	
+}
+.postcontent .aligncenter {
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.4.1" created="2012-09-06 13:21" -->
+<!-- generator="WordPress/3.4.1" created="2012-09-09 00:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Orkiestra Deta OSP Konopiska</title>
-	<link>http://localhost/orkiestra</link>
-	<description>Kolejna witryna oparta na WordPressie</description>
-	<pubDate>Thu, 06 Sep 2012 13:21:45 +0000</pubDate>
+	<title>Orkiestra Dęta OSP Konopiska</title>
+	<link>http://babel.byethost4.com</link>
+	<description>Oficjalna strona Orkiestry Dętej z Konopisk.</description>
+	<pubDate>Sun, 09 Sep 2012 00:48:09 +0000</pubDate>
 	<language>pl-PL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost/orkiestra</wp:base_site_url>
-	<wp:base_blog_url>http://localhost/orkiestra</wp:base_blog_url>
+	<wp:base_site_url>http://babel.byethost4.com</wp:base_site_url>
+	<wp:base_blog_url>http://babel.byethost4.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>babel</wp:author_login><wp:author_email>mk_cafe9@o2.pl</wp:author_email><wp:author_display_name><![CDATA[babel]]></wp:author_display_name><wp:author_first_name><![CDATA[Michał]]></wp:author_first_name><wp:author_last_name><![CDATA[Klabisz]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>tomek</wp:author_login><wp:author_email>tomek@dsjf.pl</wp:author_email><wp:author_display_name><![CDATA[tomek]]></wp:author_display_name><wp:author_first_name><![CDATA[Tomasz]]></wp:author_first_name><wp:author_last_name><![CDATA[Kołaczyk]]></wp:author_last_name></wp:author>
@@ -44,10 +44,10 @@
 
 	<item>
 		<title>hist1</title>
-		<link>http://localhost/orkiestra/orkiestra/hist1/</link>
+		<link>http://babel.byethost4.com/orkiestra/hist1/</link>
 		<pubDate>Tue, 04 Sep 2012 18:29:41 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/hist1.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/hist1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -63,7 +63,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/hist1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/hist1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/hist1.jpg]]></wp:meta_value>
@@ -75,10 +75,10 @@
 	</item>
 	<item>
 		<title>hist2</title>
-		<link>http://localhost/orkiestra/orkiestra/hist2/</link>
+		<link>http://babel.byethost4.com/orkiestra/hist2/</link>
 		<pubDate>Tue, 04 Sep 2012 18:30:28 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/hist2.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/hist2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -94,7 +94,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/hist2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/hist2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/hist2.jpg]]></wp:meta_value>
@@ -106,10 +106,10 @@
 	</item>
 	<item>
 		<title>nag1</title>
-		<link>http://localhost/orkiestra/orkiestra/nag1/</link>
+		<link>http://babel.byethost4.com/orkiestra/nag1/</link>
 		<pubDate>Tue, 04 Sep 2012 18:35:14 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/nag1.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/nag1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -125,7 +125,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/nag1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/nag1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/nag1.jpg]]></wp:meta_value>
@@ -137,10 +137,10 @@
 	</item>
 	<item>
 		<title>nag2</title>
-		<link>http://localhost/orkiestra/orkiestra/nag2/</link>
+		<link>http://babel.byethost4.com/orkiestra/nag2/</link>
 		<pubDate>Tue, 04 Sep 2012 18:35:51 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/nag2.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/nag2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -156,7 +156,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/nag2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/nag2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/nag2.jpg]]></wp:meta_value>
@@ -168,10 +168,10 @@
 	</item>
 	<item>
 		<title>oferta</title>
-		<link>http://localhost/orkiestra/oferta/oferta-2/</link>
+		<link>http://babel.byethost4.com/oferta/oferta-2/</link>
 		<pubDate>Tue, 04 Sep 2012 20:09:17 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/oferta.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/oferta.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -187,7 +187,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/oferta.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/oferta.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/oferta.jpg]]></wp:meta_value>
@@ -198,11 +198,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>sp1</title>
-		<link>http://localhost/orkiestra/sponsorzy/sp1/</link>
+		<title>Konopiska</title>
+		<link>http://babel.byethost4.com/sponsorzy/sp1/</link>
 		<pubDate>Tue, 04 Sep 2012 20:19:48 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/sp1.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/sp1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Konopiska]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -218,7 +218,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/sp1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/sp1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/sp1.jpg]]></wp:meta_value>
@@ -229,11 +229,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>sp2</title>
-		<link>http://localhost/orkiestra/sponsorzy/sp2/</link>
+		<title>Akord</title>
+		<link>http://babel.byethost4.com/sponsorzy/sp2/</link>
 		<pubDate>Tue, 04 Sep 2012 20:19:50 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/sp2.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/sp2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Akord]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -249,7 +249,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/sp2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/sp2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/sp2.jpg]]></wp:meta_value>
@@ -260,11 +260,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>sp3</title>
-		<link>http://localhost/orkiestra/sponsorzy/sp3/</link>
+		<title>Kuznia Palysz</title>
+		<link>http://babel.byethost4.com/sponsorzy/sp3/</link>
 		<pubDate>Tue, 04 Sep 2012 20:19:51 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/sp3.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/sp3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Kuźnia Pałysz]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -280,7 +280,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/sp3.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/sp3.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/sp3.jpg]]></wp:meta_value>
@@ -291,11 +291,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>sp4</title>
-		<link>http://localhost/orkiestra/sponsorzy/sp4/</link>
+		<title>Waldek Nowakowski</title>
+		<link>http://babel.byethost4.com/sponsorzy/sp4/</link>
 		<pubDate>Tue, 04 Sep 2012 20:19:53 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/sp4.png</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/sp4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[Waldek Nowakowski]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -311,7 +311,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/sp4.png</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/sp4.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/sp4.png]]></wp:meta_value>
@@ -322,11 +322,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>sp5</title>
-		<link>http://localhost/orkiestra/sponsorzy/sp5/</link>
+		<title>Aleksandria</title>
+		<link>http://babel.byethost4.com/sponsorzy/sp5/</link>
 		<pubDate>Tue, 04 Sep 2012 20:19:54 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/sp5.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/sp5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Aleksandria]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -342,7 +342,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/sp5.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/sp5.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/sp5.jpg]]></wp:meta_value>
@@ -353,42 +353,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>szk1</title>
-		<link>http://localhost/orkiestra/szkolka/szk1/</link>
-		<pubDate>Tue, 04 Sep 2012 20:29:36 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/szk1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[Grucha w całej okazałości]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date>2012-09-04 22:29:36</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 20:29:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>szk1</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>39</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/szk1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/szk1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"190";s:6:"height";s:3:"284";s:14:"hwstring_small";s:22:"height='96' width='64'";s:4:"file";s:16:"2012/09/szk1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>016d15dcca</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/016d15dcca/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/016d15dcca/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:12 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/016d15dcca.jpeg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/016d15dcca.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -404,7 +373,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/016d15dcca.jpeg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/016d15dcca.jpeg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/016d15dcca.jpeg]]></wp:meta_value>
@@ -416,10 +385,10 @@
 	</item>
 	<item>
 		<title>23</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/attachment/23/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/attachment/23/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:21 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/23.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/23.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -435,7 +404,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/23.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/23.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/23.jpg]]></wp:meta_value>
@@ -447,10 +416,10 @@
 	</item>
 	<item>
 		<title>333e4dec56</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/333e4dec56/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/333e4dec56/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:23 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/333e4dec56.jpeg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/333e4dec56.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -466,7 +435,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/333e4dec56.jpeg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/333e4dec56.jpeg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/333e4dec56.jpeg]]></wp:meta_value>
@@ -478,10 +447,10 @@
 	</item>
 	<item>
 		<title>d60f8fe877</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/d60f8fe877/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/d60f8fe877/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:25 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/d60f8fe877.jpeg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/d60f8fe877.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -497,7 +466,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/d60f8fe877.jpeg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/d60f8fe877.jpeg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/d60f8fe877.jpeg]]></wp:meta_value>
@@ -509,10 +478,10 @@
 	</item>
 	<item>
 		<title>IMG_5502</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/img_5502/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/img_5502/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:27 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5502.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5502.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -528,7 +497,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5502.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5502.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/IMG_5502.jpg]]></wp:meta_value>
@@ -540,10 +509,10 @@
 	</item>
 	<item>
 		<title>IMG_5795</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/img_5795/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/img_5795/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:29 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5795.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5795.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -559,7 +528,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5795.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5795.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/IMG_5795.jpg]]></wp:meta_value>
@@ -571,10 +540,10 @@
 	</item>
 	<item>
 		<title>IMG_5800</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/img_5800/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/img_5800/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:31 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5800.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5800.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -590,7 +559,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5800.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5800.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/IMG_5800.jpg]]></wp:meta_value>
@@ -602,10 +571,10 @@
 	</item>
 	<item>
 		<title>IMG_5803</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/img_5803/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/img_5803/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:32 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5803.jpg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5803.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -621,7 +590,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5803.jpg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5803.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/IMG_5803.jpg]]></wp:meta_value>
@@ -633,10 +602,10 @@
 	</item>
 	<item>
 		<title>kozy1</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/kozy1/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/kozy1/</link>
 		<pubDate>Tue, 04 Sep 2012 21:23:34 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/kozy1.jpeg</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/kozy1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -652,7 +621,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/kozy1.jpeg</wp:attachment_url>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/kozy1.jpeg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/09/kozy1.jpeg]]></wp:meta_value>
@@ -663,17 +632,710 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>kryn. 1</title>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/kryn-1/</link>
+		<pubDate>Tue, 04 Sep 2012 21:23:35 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/kryn.-1.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date>2012-09-04 23:23:35</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 21:23:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>kryn-1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>109</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/kryn.-1.jpeg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/kryn.-1.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"600";s:6:"height";s:3:"511";s:14:"hwstring_small";s:23:"height='96' width='112'";s:4:"file";s:20:"2012/09/kryn.-1.jpeg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:10:"Picasa 2.0";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Orkiestra Konopiska Krynica 2007</title>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/orkiestra-konopiska-krynica-2007/</link>
+		<pubDate>Tue, 04 Sep 2012 21:23:36 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/Orkiestra-Konopiska-Krynica-2007.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date>2012-09-04 23:23:36</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 21:23:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>orkiestra-konopiska-krynica-2007</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>109</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/Orkiestra-Konopiska-Krynica-2007.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/Orkiestra-Konopiska-Krynica-2007.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"400";s:6:"height";s:3:"300";s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:44:"2012/09/Orkiestra-Konopiska-Krynica-2007.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska06</title>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/osp_konopiska06/</link>
+		<pubDate>Tue, 04 Sep 2012 21:23:37 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date>2012-09-04 23:23:37</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 21:23:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska06</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>109</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska06.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"4332";s:6:"height";s:4:"2908";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/09/OSP_Konopiska06.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska07</title>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/osp_konopiska07/</link>
+		<pubDate>Tue, 04 Sep 2012 21:23:39 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska07.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date>2012-09-04 23:23:39</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 21:23:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska07</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>109</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska07.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska07.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"4332";s:6:"height";s:4:"2908";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/09/OSP_Konopiska07.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>września ork.2</title>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/wrzesnia-ork-2/</link>
+		<pubDate>Tue, 04 Sep 2012 21:23:41 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/września-ork.2.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date>2012-09-04 23:23:41</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 21:23:41</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>wrzesnia-ork-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>109</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/września-ork.2.jpeg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/września-ork.2.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"750";s:6:"height";s:3:"563";s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:28:"2012/09/września-ork.2.jpeg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>001</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/001/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:13 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/001.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>133</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:13</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:13</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>001</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/001.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/001.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/001.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>002</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/002/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:15 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/002.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>134</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:15</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:15</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>002</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/002.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/002.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/002.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>003</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/003/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:18 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/003.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>135</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:18</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:18</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>003</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/003.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/003.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"540";s:14:"hwstring_small";s:23:"height='72' width='128'";s:4:"file";s:15:"2012/09/003.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>006</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/006/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:20 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/006.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:20</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>006</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/006.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/006.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/006.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>007</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/007/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:21 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/007.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:21</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:21</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>007</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/007.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/007.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/007.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>008</title>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/attachment/008/</link>
+		<pubDate>Tue, 04 Sep 2012 23:32:23 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/008.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date>2012-09-05 01:32:23</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:32:23</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>008</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>132</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/008.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/008.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/008.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>001</title>
+		<link>http://babel.byethost4.com/2012/03/19/wystep-w-galerii-jurajskiej/001-2/</link>
+		<pubDate>Tue, 04 Sep 2012 23:38:41 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/0011.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date>2012-09-05 01:38:41</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:38:41</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>001-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>143</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/0011.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/0011.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:16:"2012/09/0011.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>005</title>
+		<link>http://babel.byethost4.com/2012/03/19/wystep-w-galerii-jurajskiej/attachment/005/</link>
+		<pubDate>Tue, 04 Sep 2012 23:38:42 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/005.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date>2012-09-05 01:38:42</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:38:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>005</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>143</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/005.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/005.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/005.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>006</title>
+		<link>http://babel.byethost4.com/2012/03/19/wystep-w-galerii-jurajskiej/006-2/</link>
+		<pubDate>Tue, 04 Sep 2012 23:38:44 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/0061.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date>2012-09-05 01:38:44</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:38:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>006-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>143</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/0061.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/0061.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:16:"2012/09/0061.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>IMG_5330</title>
+		<link>http://babel.byethost4.com/2011/09/07/sukces-orkiestry/img_5330/</link>
+		<pubDate>Tue, 04 Sep 2012 23:41:35 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5330.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>150</wp:post_id>
+		<wp:post_date>2012-09-05 01:41:35</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:41:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>img_5330</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>149</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5330.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/IMG_5330.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"400";s:6:"height";s:3:"600";s:14:"hwstring_small";s:22:"height='96' width='64'";s:4:"file";s:20:"2012/09/IMG_5330.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>IMG_5800</title>
+		<link>http://babel.byethost4.com/2011/09/07/sukces-orkiestry/img_5800-2/</link>
+		<pubDate>Tue, 04 Sep 2012 23:41:36 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_58001.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>151</wp:post_id>
+		<wp:post_date>2012-09-05 01:41:36</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:41:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>img_5800-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>149</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_58001.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/IMG_58001.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"533";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:21:"2012/09/IMG_58001.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>IMG_5935</title>
+		<link>http://babel.byethost4.com/2011/09/07/sukces-orkiestry/img_5935/</link>
+		<pubDate>Tue, 04 Sep 2012 23:41:38 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5935.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>152</wp:post_id>
+		<wp:post_date>2012-09-05 01:41:38</wp:post_date>
+		<wp:post_date_gmt>2012-09-04 23:41:38</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>img_5935</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>149</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/IMG_5935.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/IMG_5935.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"533";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:20:"2012/09/IMG_5935.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>011</title>
+		<link>http://babel.byethost4.com/szkolka/attachment/011/</link>
+		<pubDate>Fri, 07 Sep 2012 21:23:44 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/011.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>179</wp:post_id>
+		<wp:post_date>2012-09-07 23:23:44</wp:post_date>
+		<wp:post_date_gmt>2012-09-07 21:23:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>011</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>39</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/011.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/011.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"700";s:6:"height";s:3:"658";s:14:"hwstring_small";s:23:"height='96' width='102'";s:4:"file";s:15:"2012/09/011.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:15:"011-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:15:"011-300x282.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"282";}}s:10:"image_meta";a:10:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D3000";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1241316308";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"55";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:15:"0.0666666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>007</title>
+		<link>http://babel.byethost4.com/szkolka/007-2/</link>
+		<pubDate>Fri, 07 Sep 2012 21:23:47 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/0072.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date>2012-09-07 23:23:47</wp:post_date>
+		<wp:post_date_gmt>2012-09-07 21:23:47</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>007-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>39</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/0072.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/0072.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"700";s:6:"height";s:3:"468";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:16:"2012/09/0072.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:16:"0072-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:16:"0072-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:3:"4.5";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D3000";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1241314499";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"30";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:15:"0.0166666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>009</title>
+		<link>http://babel.byethost4.com/szkolka/attachment/009/</link>
+		<pubDate>Fri, 07 Sep 2012 21:23:50 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/009.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date>2012-09-07 23:23:50</wp:post_date>
+		<wp:post_date_gmt>2012-09-07 21:23:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>009</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>39</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/009.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/009.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"700";s:6:"height";s:3:"478";s:14:"hwstring_small";s:23:"height='87' width='128'";s:4:"file";s:15:"2012/09/009.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:15:"009-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:15:"009-300x204.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"204";}}s:10:"image_meta";a:10:{s:8:"aperture";s:3:"5.3";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D3000";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1241316074";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"42";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:15:"0.0166666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>010</title>
+		<link>http://babel.byethost4.com/szkolka/attachment/010/</link>
+		<pubDate>Fri, 07 Sep 2012 21:23:53 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/010.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>182</wp:post_id>
+		<wp:post_date>2012-09-07 23:23:53</wp:post_date>
+		<wp:post_date_gmt>2012-09-07 21:23:53</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>010</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>39</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/010.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/010.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"700";s:6:"height";s:3:"534";s:14:"hwstring_small";s:23:"height='96' width='125'";s:4:"file";s:15:"2012/09/010.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:15:"010-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:15:"010-300x228.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"228";}}s:10:"image_meta";a:10:{s:8:"aperture";s:3:"5.3";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D3000";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1241316219";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"48";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:4:"0.04";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Przykładowa strona</title>
+		<link>http://babel.byethost4.com/przykladowa-strona/</link>
+		<pubDate>Sun, 02 Sep 2012 23:17:59 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[To jest przykładowa strona. Strony są inne niż wpisy na blogu, ponieważ nie tylko są stale umieszczone w jednym miejscu, ale także pojawiają się w menu Twojej witryny (w większości motywów). Większość ludzi umieszcza na swoich witrynach strony o sobie, na których przedstawiają się potencjalnym odwiedzającym. Przykładem takiej strony mogłoby być:
+
+<blockquote>Cześć! Za dnia jestem gońcem, a w ciągu nocy próbuję swoich sił w aktorstwie. To jest mój blog. Mieszkam w Los Angeles, mam wspaniałego psa, który nazywa się Jack i lubię pi&#241;a coladę (i spacery w deszczu).</blockquote>
+
+... lub taki tekst:
+
+<blockquote>Firma Wihajstry XYZ została założona w 1971 roku i od początku swojego istnienia zajmuje się produkcją najlepszych wihajstrów. W naszej siedzibie w Gotham City pracuje ponad 2000 osób, które zajmują się robieniem całej masy fantastycznych rzeczy dla mieszkańców miasta.</blockquote>
+
+Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://babel.byethost4.com/wp-admin/">swojego kokpitu</a>, aby usunąć tę stronę i utworzyć nowe strony z własną treścią. Baw się dobrze!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date>2012-09-02 23:17:59</wp:post_date>
+		<wp:post_date_gmt>2012-09-02 23:17:59</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>przykladowa-strona</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1346659770]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Orkiestra</title>
-		<link>http://localhost/orkiestra/orkiestra/</link>
+		<link>http://babel.byethost4.com/orkiestra/</link>
 		<pubDate>Mon, 03 Sep 2012 08:10:25 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=30</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Orkiestra OSP w Konopiskach to muzycy z 30 letnim doświadczeniem, grający muzykę od Strauss-a do Davis-a. Wykonuje muzyke klasyczną, filmową oraz rozrywkową. Orkiestrze towarzyszą wokaliści i soliści. Orkiestra może koncertować samodzielnie lub akompaniować solistom, intrumentalistom i wokalistom.
 <h3><strong>Trochę historii</strong></h3>
-<a href="http://localhost/orkiestra/wp-content/uploads/2012/09/hist1.jpg"><img class="alignleft size-full wp-image-62" title="hist1" src="http://localhost/orkiestra/wp-content/uploads/2012/09/hist1.jpg" alt="" width="255" height="176" /></a>Pierwsza orkiestra dęta w Konopiskach powstała w listopadzie 1927 roku z inicjatywy miejscowego organisty Wentlanta, w dziesiątą rocznicę powstania OSP w Konopiskach i z okazji poświęcenia sztandaru. Od momentu powstania Orkiestra nie grała w sposób ciągły. Niesprzyjające warunki, najpierw II wojna światowa, pózniej ogólne problemy orkiestry. W 1981 na Walnym Zebraniu OSP w Konopiskach podjęto uchwałę o reaktywowaniu orkiestry, która od tamtego okresu gra nieprzerwanie. Inicjatorem reaktywowania orkiestry był Druh Bolesław Żukow wraz z Janem Ankowskim i Antonim Sączkiem. Pierwszy koncert odnowiona orkiestra dała podczas Dnia Strażaka w 1982 roku.
+<a href="http://babel.byethost4.com/wp-content/uploads/2012/09/hist1.jpg"><img class="alignleft size-full wp-image-62" title="hist1" src="http://babel.byethost4.com/wp-content/uploads/2012/09/hist1.jpg" alt="" width="255" height="176" /></a>Pierwsza orkiestra dęta w Konopiskach powstała w listopadzie 1927 roku z inicjatywy miejscowego organisty Wentlanta, w dziesiątą rocznicę powstania OSP w Konopiskach i z okazji poświęcenia sztandaru. Od momentu powstania Orkiestra nie grała w sposób ciągły. Niesprzyjające warunki, najpierw II wojna światowa, pózniej ogólne problemy orkiestry. W 1981 na Walnym Zebraniu OSP w Konopiskach podjęto uchwałę o reaktywowaniu orkiestry, która od tamtego okresu gra nieprzerwanie. Inicjatorem reaktywowania orkiestry był Druh Bolesław Żukow wraz z Janem Ankowskim i Antonim Sączkiem. Pierwszy koncert odnowiona orkiestra dała podczas Dnia Strażaka w 1982 roku.
 
-<a href="http://localhost/orkiestra/wp-content/uploads/2012/09/hist2.jpg"><img class="alignright size-full wp-image-63" title="hist2" src="http://localhost/orkiestra/wp-content/uploads/2012/09/hist2.jpg" alt="" width="255" height="168" /></a>Orkiestra w pierwszym składzie liczyła 20 osób, byli to : Jan Chwist, Jan Ciuk, Witold Ciuk, Władysław Foks, Kazimierz Jarosik, Dariusz Kowalik, Grzegorz Kowalik, Krzysztof Kruk, Jacek Lelit, Jerzy Kodławski, Edward Mrowiec, Janusz Mrowiec, Andrzej Słabosz, Robert Spyra, Franciszek Szymonik, Adam Trzyna, Jerzy Turos, Stanisław Walczak. Kapelmistrzem reaktywowanej orkiestry został Kazimierz Jarosik, następnie jego syn Witold Jarosik, a pózniej Zenon Morawiec. Od marca 1993 roku do 31 grudnia 2004 roku kapelmistrzem orkiestry był wiesław Pitulski. Od 1 stycznia 2005 roku funkcje tę pełni Tomasz Hadrian, a od 2007 roku dodatkowo prezesem orkiestry jest Jacek Walenetek.
+<a href="http://babel.byethost4.com/wp-content/uploads/2012/09/hist2.jpg"><img class="alignright size-full wp-image-63" title="hist2" src="http://babel.byethost4.com/wp-content/uploads/2012/09/hist2.jpg" alt="" width="255" height="168" /></a>Orkiestra w pierwszym składzie liczyła 20 osób, byli to : Jan Chwist, Jan Ciuk, Witold Ciuk, Władysław Foks, Kazimierz Jarosik, Dariusz Kowalik, Grzegorz Kowalik, Krzysztof Kruk, Jacek Lelit, Jerzy Kodławski, Edward Mrowiec, Janusz Mrowiec, Andrzej Słabosz, Robert Spyra, Franciszek Szymonik, Adam Trzyna, Jerzy Turos, Stanisław Walczak. Kapelmistrzem reaktywowanej orkiestry został Kazimierz Jarosik, następnie jego syn Witold Jarosik, a pózniej Zenon Morawiec. Od marca 1993 roku do 31 grudnia 2004 roku kapelmistrzem orkiestry był wiesław Pitulski. Od 1 stycznia 2005 roku funkcje tę pełni Tomasz Hadrian, a od 2007 roku dodatkowo prezesem orkiestry jest Jacek Walenetek.
 
 Obecnie orkiestra liczy 50 muzyków, którzy są wychowankami orkiestry. Jako jedna z najlepszych w kraju, uświetnia swoimi występami wszelkiego rodzaju imprezy, koncerty, festyny i festiwale.Wraz z orkiestrą występuje także grupa taneczna działająca przy GOKu, która od 1997 roku wykonuje układy do muzyki orkiestry. W roku 2008 Przy orkiestrze został założony Big Band, który cieszy się dużą popularnością.
 <strong></strong>
@@ -681,9 +1343,9 @@ Obecnie orkiestra liczy 50 muzyków, którzy są wychowankami orkiestry. Jako je
 Razem z orkiestrą działa grupa mażoretek "Szyk" działająca przy GCKiR w Konopiskach. Potrafi ona uczestniczyć nie tylko w przemarszach paradnych, lecz również tańczyć w układach choreograficznych do muzyki pozostałej części zespołu. Obecnie instruktorem grupy jest Iwona Lisek.
 <strong></strong>
 <h3><strong>Osiągniecia:</strong>
-<a href="http://localhost/orkiestra/wp-content/uploads/2012/09/nag2.jpg"><img class="alignleft size-full wp-image-65" title="nag2" src="http://localhost/orkiestra/wp-content/uploads/2012/09/nag2.jpg" alt="" width="120" height="179" /></a></h3>
+<a href="http://babel.byethost4.com/wp-content/uploads/2012/09/nag2.jpg"><img class="alignleft size-full wp-image-65" title="nag2" src="http://babel.byethost4.com/wp-content/uploads/2012/09/nag2.jpg" alt="" width="120" height="179" /></a></h3>
 <ul>
-	<li><a href="http://localhost/orkiestra/wp-content/uploads/2012/09/nag1.jpg"><img class="alignright size-full wp-image-64" title="nag1" src="http://localhost/orkiestra/wp-content/uploads/2012/09/nag1.jpg" alt="" width="113" height="170" /></a>3-krotne zdobycie II miejsca na Ogólnopolskim Festiwalu Orkiestr OSP</li>
+	<li><a href="http://babel.byethost4.com/wp-content/uploads/2012/09/nag1.jpg"><img class="alignright size-full wp-image-64" title="nag1" src="http://babel.byethost4.com/wp-content/uploads/2012/09/nag1.jpg" alt="" width="113" height="170" /></a>3-krotne zdobycie II miejsca na Ogólnopolskim Festiwalu Orkiestr OSP</li>
 	<li>4-krotny udział w Finale Wielkiej Orkiestry Świątecznej Pomocy Jerzego Owsiaka w TVP</li>
 	<li>w 2001 r. w Połczynie Zdroju zdobycie GRAND PRIX XVI Ogólnopolskiego Festiwalu
 Orkiestr OSP</li>
@@ -730,10 +1392,10 @@ kompozytora polskiego.</li>
 	</item>
 	<item>
 		<title>Multimedia</title>
-		<link>http://localhost/orkiestra/multimedia/</link>
+		<link>http://babel.byethost4.com/multimedia/</link>
 		<pubDate>Mon, 03 Sep 2012 08:10:56 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=32</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Wybierz kategorię z menu.</h1>
 &nbsp;]]></content:encoded>
@@ -757,12 +1419,12 @@ kompozytora polskiego.</li>
 	</item>
 	<item>
 		<title>Oferta</title>
-		<link>http://localhost/orkiestra/oferta/</link>
+		<link>http://babel.byethost4.com/oferta/</link>
 		<pubDate>Mon, 03 Sep 2012 08:11:27 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=35</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://localhost/orkiestra/wp-content/uploads/2012/09/oferta.jpg"><img class="alignright size-full wp-image-75" title="oferta" src="http://localhost/orkiestra/wp-content/uploads/2012/09/oferta.jpg" alt="" width="523" height="371" /></a>Orkiestra OSP w Konopiskach to muzycy z 30 letnim doświadczeniem grający muzyke od Strauss-a do Davis-a. Wykonuje muzyke klasyczną, filmową oraz rozrywkową. Orkiestrze toważyszą wokaliści i soliści.
+		<content:encoded><![CDATA[<a href="http://babel.byethost4.com/wp-content/uploads/2012/09/oferta.jpg"><img class="alignright  wp-image-75" title="oferta" src="http://babel.byethost4.com/wp-content/uploads/2012/09/oferta.jpg" alt="" width="418" height="297" /></a>Orkiestra OSP w Konopiskach to muzycy z 30 letnim doświadczeniem grający muzyke od Strauss-a do Davis-a. Wykonuje muzyke klasyczną, filmową oraz rozrywkową. Orkiestrze toważyszą wokaliści i soliści.
 
 Orkiestra może koncertować samodzielnie lub akompaniować solistom - intrumentalistom i wokalistom.
 
@@ -794,584 +1456,48 @@ Proponujemy atrakcyjną oprawe muzyczną:
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>kryn. 1</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/kryn-1/</link>
-		<pubDate>Tue, 04 Sep 2012 21:23:35 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/kryn.-1.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date>2012-09-04 23:23:35</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 21:23:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>kryn-1</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>109</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/kryn.-1.jpeg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/kryn.-1.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"600";s:6:"height";s:3:"511";s:14:"hwstring_small";s:23:"height='96' width='112'";s:4:"file";s:20:"2012/09/kryn.-1.jpeg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:10:"Picasa 2.0";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Orkiestra Konopiska Krynica 2007</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/orkiestra-konopiska-krynica-2007/</link>
-		<pubDate>Tue, 04 Sep 2012 21:23:36 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/Orkiestra-Konopiska-Krynica-2007.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date>2012-09-04 23:23:36</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 21:23:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>orkiestra-konopiska-krynica-2007</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>109</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/Orkiestra-Konopiska-Krynica-2007.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/Orkiestra-Konopiska-Krynica-2007.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"400";s:6:"height";s:3:"300";s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:44:"2012/09/Orkiestra-Konopiska-Krynica-2007.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>OSP_Konopiska06</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/osp_konopiska06/</link>
-		<pubDate>Tue, 04 Sep 2012 21:23:37 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/OSP_Konopiska06.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>121</wp:post_id>
-		<wp:post_date>2012-09-04 23:23:37</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 21:23:37</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>osp_konopiska06</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>109</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/OSP_Konopiska06.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska06.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"4332";s:6:"height";s:4:"2908";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/09/OSP_Konopiska06.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>OSP_Konopiska07</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/osp_konopiska07/</link>
-		<pubDate>Tue, 04 Sep 2012 21:23:39 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/OSP_Konopiska07.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>122</wp:post_id>
-		<wp:post_date>2012-09-04 23:23:39</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 21:23:39</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>osp_konopiska07</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>109</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/OSP_Konopiska07.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska07.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"4332";s:6:"height";s:4:"2908";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/09/OSP_Konopiska07.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>września ork.2</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/wrzesnia-ork-2/</link>
-		<pubDate>Tue, 04 Sep 2012 21:23:41 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/września-ork.2.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>123</wp:post_id>
-		<wp:post_date>2012-09-04 23:23:41</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 21:23:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wrzesnia-ork-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>109</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/września-ork.2.jpeg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/września-ork.2.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"750";s:6:"height";s:3:"563";s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:28:"2012/09/września-ork.2.jpeg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>001</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/001/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:13 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/001.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>133</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:13</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:13</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>001</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/001.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/001.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/001.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>002</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/002/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:15 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/002.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>134</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:15</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>002</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/002.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/002.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/002.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>003</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/003/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:18 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/003.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>135</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:18</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:18</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>003</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/003.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/003.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"540";s:14:"hwstring_small";s:23:"height='72' width='128'";s:4:"file";s:15:"2012/09/003.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>006</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/006/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:20 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/006.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>136</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:20</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>006</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/006.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/006.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/006.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>007</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/007/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:21 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/007.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>137</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:21</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>007</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/007.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/007.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/007.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>008</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/attachment/008/</link>
-		<pubDate>Tue, 04 Sep 2012 23:32:23 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/008.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>138</wp:post_id>
-		<wp:post_date>2012-09-05 01:32:23</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:32:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>008</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>132</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/008.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/008.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"960";s:6:"height";s:3:"640";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/008.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>001</title>
-		<link>http://localhost/orkiestra/2012/03/19/wystep-w-galerii-jurajskiej/001-2/</link>
-		<pubDate>Tue, 04 Sep 2012 23:38:41 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/0011.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date>2012-09-05 01:38:41</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:38:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>001-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>143</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/0011.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/0011.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:16:"2012/09/0011.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>005</title>
-		<link>http://localhost/orkiestra/2012/03/19/wystep-w-galerii-jurajskiej/attachment/005/</link>
-		<pubDate>Tue, 04 Sep 2012 23:38:42 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/005.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>145</wp:post_id>
-		<wp:post_date>2012-09-05 01:38:42</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:38:42</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>005</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>143</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/005.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/005.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:15:"2012/09/005.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>006</title>
-		<link>http://localhost/orkiestra/2012/03/19/wystep-w-galerii-jurajskiej/006-2/</link>
-		<pubDate>Tue, 04 Sep 2012 23:38:44 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/0061.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>146</wp:post_id>
-		<wp:post_date>2012-09-05 01:38:44</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:38:44</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>006-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>143</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/0061.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/0061.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"536";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:16:"2012/09/0061.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>IMG_5330</title>
-		<link>http://localhost/orkiestra/2011/09/07/sukces-orkiestry/img_5330/</link>
-		<pubDate>Tue, 04 Sep 2012 23:41:35 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5330.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>150</wp:post_id>
-		<wp:post_date>2012-09-05 01:41:35</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:41:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>img_5330</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>149</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5330.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/IMG_5330.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"400";s:6:"height";s:3:"600";s:14:"hwstring_small";s:22:"height='96' width='64'";s:4:"file";s:20:"2012/09/IMG_5330.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>IMG_5800</title>
-		<link>http://localhost/orkiestra/2011/09/07/sukces-orkiestry/img_5800-2/</link>
-		<pubDate>Tue, 04 Sep 2012 23:41:36 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_58001.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>151</wp:post_id>
-		<wp:post_date>2012-09-05 01:41:36</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:41:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>img_5800-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>149</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_58001.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/IMG_58001.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"533";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:21:"2012/09/IMG_58001.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>IMG_5935</title>
-		<link>http://localhost/orkiestra/2011/09/07/sukces-orkiestry/img_5935/</link>
-		<pubDate>Tue, 04 Sep 2012 23:41:38 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5935.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>152</wp:post_id>
-		<wp:post_date>2012-09-05 01:41:38</wp:post_date>
-		<wp:post_date_gmt>2012-09-04 23:41:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>img_5935</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>149</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/orkiestra/wp-content/uploads/2012/09/IMG_5935.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/09/IMG_5935.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"800";s:6:"height";s:3:"533";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:20:"2012/09/IMG_5935.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Przykładowa strona</title>
-		<link>http://localhost/orkiestra/przykladowa-strona/</link>
-		<pubDate>Sun, 02 Sep 2012 23:17:59 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[To jest przykładowa strona. Strony są inne niż wpisy na blogu, ponieważ nie tylko są stale umieszczone w jednym miejscu, ale także pojawiają się w menu Twojej witryny (w większości motywów). Większość ludzi umieszcza na swoich witrynach strony o sobie, na których przedstawiają się potencjalnym odwiedzającym. Przykładem takiej strony mogłoby być:
-
-<blockquote>Cześć! Za dnia jestem gońcem, a w ciągu nocy próbuję swoich sił w aktorstwie. To jest mój blog. Mieszkam w Los Angeles, mam wspaniałego psa, który nazywa się Jack i lubię pi&#241;a coladę (i spacery w deszczu).</blockquote>
-
-... lub taki tekst:
-
-<blockquote>Firma Wihajstry XYZ została założona w 1971 roku i od początku swojego istnienia zajmuje się produkcją najlepszych wihajstrów. W naszej siedzibie w Gotham City pracuje ponad 2000 osób, które zajmują się robieniem całej masy fantastycznych rzeczy dla mieszkańców miasta.</blockquote>
-
-Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://localhost/orkiestra/wp-admin/">swojego kokpitu</a>, aby usunąć tę stronę i utworzyć nowe strony z własną treścią. Baw się dobrze!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2012-09-02 23:17:59</wp:post_date>
-		<wp:post_date_gmt>2012-09-02 23:17:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>przykladowa-strona</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1346659770]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Sponsorzy</title>
-		<link>http://localhost/orkiestra/sponsorzy/</link>
+		<link>http://babel.byethost4.com/sponsorzy/</link>
 		<pubDate>Mon, 03 Sep 2012 08:11:39 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=37</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=37</guid>
 		<description></description>
-		<content:encoded><![CDATA[[gallery]
-
-&nbsp;]]></content:encoded>
+		<content:encoded><![CDATA[<style type='text/css'>
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+		</style>
+		<!-- see gallery_shortcode() in wp-includes/media.php -->
+		<div id='gallery-1' class='gallery galleryid-37 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon'>
+				<a href='http://konopiska.pl' title='Konopiska'><img width="150" height="36" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp1.jpg" class="attachment-thumbnail" alt="Konopiska" title="Konopiska" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon'>
+				<a href='http://www.sklepakord.pl/' title='Akord'><img width="104" height="110" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp2.jpg" class="attachment-thumbnail" alt="Akord" title="Akord" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon'>
+				<a href='http://palysz.pl' title='Kuznia Palysz'><img width="150" height="48" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp3.jpg" class="attachment-thumbnail" alt="Kuznia Palysz" title="Kuznia Palysz" /></a>
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon'>
+				<a href='http://mat84.aplus.pl/waldek/strona/' title='Waldek Nowakowski'><img width="150" height="57" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp4.png" class="attachment-thumbnail" alt="Waldek Nowakowski" title="Waldek Nowakowski" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon'>
+				<a href='http://aleksandria.pl' title='Aleksandria'><img width="150" height="84" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp5.jpg" class="attachment-thumbnail" alt="Aleksandria" title="Aleksandria" /></a>
+			</dt></dl>
+			<br style='clear: both;' />
+		</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date>2012-09-03 10:11:39</wp:post_date>
@@ -1392,12 +1518,14 @@ Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://localh
 	</item>
 	<item>
 		<title>Szkółka</title>
-		<link>http://localhost/orkiestra/szkolka/</link>
+		<link>http://babel.byethost4.com/szkolka/</link>
 		<pubDate>Mon, 03 Sep 2012 08:12:01 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=39</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=39</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://localhost/orkiestra/wp-content/uploads/2012/09/szk1.jpg"><img class="alignleft size-full wp-image-96" style="margin-right: 30px;" title="szk1" src="http://localhost/orkiestra/wp-content/uploads/2012/09/szk1.jpg" alt="" width="190" height="284" /></a>Szkółka działa przy Gminnym Zespole Oświaty, Kultury, Sportu i Promocji w Konopiskach od 01.01.2006r. Intruktorem Kooordynatorem jest Tomasz Hadrian, który jednocześnie pełni funkcję kapelmisrza orkiestry. Wraz z nim ściśle współpracują inni instruktorzy nauki gry na instrumentach dętych i perkusyjnych w naborze młodych adeptów i kierują pracą zespołu pedagogicznego.
+		<content:encoded><![CDATA[Szkółka działa przy Gminnym Zespole Oświaty, Kultury, Sportu i Promocji w Konopiskach od 01.01.2006r. Intruktorem Kooordynatorem jest Tomasz Hadrian, który jednocześnie pełni funkcję kapelmisrza orkiestry. Wraz z nim ściśle współpracują inni instruktorzy nauki gry na instrumentach dętych i perkusyjnych w naborze młodych adeptów i kierują pracą zespołu pedagogicznego.
+
+[gallery link="file" columns="4"]
 <h2>Zajęcia składają się z:</h2>
 <h3>nauki gry na instrumentach</h3>
 <ul>
@@ -1408,7 +1536,7 @@ Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://localh
 <h3>lekcji teorii muzyki</h3>
 Zaczynamy uczyć przyszłych orkiestrantów już od piątej klasy szkoły podstawowej. Naukę można jednak równiej zacząć w późniejszym wieku. zapraszamy chętnych
 <h2>Jak się przyłączyć</h2>
-Jeśli mieszkasz w pobliżu siedziby orkiestry (Konopiska) i chcasz miło spędzić z nami czas skontaktuj się w sprawie naboru.
+Jeśli mieszkasz w pobliżu siedziby orkiestry (Konopiska) i chcesz miło spędzić z nami czas skontaktuj się w sprawie naboru.
 
 <strong>telefon kontaktowy</strong>: 606 571 150
 <strong>email: orkiestrakonopiska@onet.eu</strong>]]></content:encoded>
@@ -1432,10 +1560,10 @@ Jeśli mieszkasz w pobliżu siedziby orkiestry (Konopiska) i chcasz miło spędz
 	</item>
 	<item>
 		<title>Kontakt</title>
-		<link>http://localhost/orkiestra/kontakt/</link>
+		<link>http://babel.byethost4.com/kontakt/</link>
 		<pubDate>Mon, 03 Sep 2012 08:12:14 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=41</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=41</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div>
 <h2>Siedziba orkiestry</h2>
@@ -1476,10 +1604,10 @@ Jacek Walentek</strong> (+48) 607-271-427
 	</item>
 	<item>
 		<title>Filmy</title>
-		<link>http://localhost/orkiestra/multimedia/filmy/</link>
+		<link>http://babel.byethost4.com/multimedia/filmy/</link>
 		<pubDate>Tue, 04 Sep 2012 21:07:48 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=102</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=102</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="560" height="315" src="http://www.youtube.com/embed/96pkOvYPT7A?list=UUhEoLRgl9TO4tY1hxS3q09A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
 ]]></content:encoded>
@@ -1503,10 +1631,10 @@ Jacek Walentek</strong> (+48) 607-271-427
 	</item>
 	<item>
 		<title>Zdjęcia</title>
-		<link>http://localhost/orkiestra/multimedia/zdjecia/</link>
+		<link>http://babel.byethost4.com/multimedia/zdjecia/</link>
 		<pubDate>Tue, 04 Sep 2012 21:24:50 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?page_id=109</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=109</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery link="file"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1529,13 +1657,12 @@ Jacek Walentek</strong> (+48) 607-271-427
 	</item>
 	<item>
 		<title>Festiwal w Rowach</title>
-		<link>http://localhost/orkiestra/2012/09/02/festiwal-w-rowach/</link>
+		<link>http://babel.byethost4.com/2012/09/02/festiwal-w-rowach/</link>
 		<pubDate>Sun, 02 Sep 2012 06:32:41 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?p=132</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=132</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>(to tylko przykładowy news skopiowany ze strony konopiska.pl)</h2>
-Z radością zawiadamiamy iż Orkiestra Dęta OSP Konopiska zajęła II miejsce podczas IV Ogólnopolskiego Festiwalu Orkiestr Dętych, który odbył się dniach 4-5 sierpnia 2012 roku w miejscowości Rowy koło Ustki.<!--more-->
+		<content:encoded><![CDATA[Z radością zawiadamiamy iż Orkiestra Dęta OSP Konopiska zajęła II miejsce podczas IV Ogólnopolskiego Festiwalu Orkiestr Dętych, który odbył się dniach 4-5 sierpnia 2012 roku w miejscowości Rowy koło Ustki.<!--more-->
 
 Nasi wspaniali artyści wzięli udział we wszystkich festiwalowych kategoriach: konkursie scenicznym, przemarszu i w musztrze paradnej. Orkiestrze towarzyszyły mażoretki "Szyk" - grupa prowadzona przez dyrektor Gminnego Centrum Kultury i Rekreacji Iwonę Lisek. W festiwalowych zmaganiach uczestniczyło 6 orkiestr min. Orkiestra Dęta OSP Koło, Młodzieżowa Orkiestra Dęta  Strzelce Wielkie, Miejska Orkiestra Dęta w Lubawie , Orkiestra Reprezentacyjna Powiatu Lipnowskiego, Gminna Orkiestra Dęta w Linii oraz Orkiestra Dęta Ochotniczych Straży Pożarnych w Konopiskach.
 Śpieszymy dodać, iż występ naszego zespołu był jednym z najlepszych występów festiwalu, a  popisy muzyczne jak i musztra paradna były komentowane przez festiwalową widownię jeszcze długo po zakończeniu imprezy.
@@ -1546,7 +1673,11 @@ Orkiestra Dęta OSP  oraz dziewczęta z grupy tanecznej „Szyk” serdecznie 
 
 Pozdrawiamy
 
-Orkiestra Dęta OSP Konopiska, mażoretki „Szyk”]]></content:encoded>
+Orkiestra Dęta OSP Konopiska, mażoretki „Szyk”
+
+&nbsp;
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=782:maoretki-w-rowach&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date>2012-09-02 08:32:41</wp:post_date>
@@ -1562,19 +1693,26 @@ Orkiestra Dęta OSP Konopiska, mażoretki „Szyk”]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Występ w Galerii Jurajskiej</title>
-		<link>http://localhost/orkiestra/2012/03/19/wystep-w-galerii-jurajskiej/</link>
+		<link>http://babel.byethost4.com/2012/03/19/wystep-w-galerii-jurajskiej/</link>
 		<pubDate>Mon, 19 Mar 2012 11:12:05 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?p=143</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=143</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h1>(To również skopiowane dla przykładu)</h1>
-W minioną niedzielę 18 marca, w częstochowskiej Galerii Jurajskiej mieliśmy okazję uczestniczyć w „Poranku Muzycznym” organizowanym przez Filharmonię Częstochowską. Orkiestra z OSP w Konopiskach wraz z grupą Mażoretek „Szyk” pięknie prezentowała się w przemarszu oraz podczas koncertu. Tematem przewodnim występu była muzyka filmowa m.in. z filmów: „Alladyn”, „Flinstonowie”, „Król Lew” oraz „Shrek”.<!--more-->
+		<content:encoded><![CDATA[W minioną niedzielę 18 marca, w częstochowskiej Galerii Jurajskiej mieliśmy okazję uczestniczyć w „Poranku Muzycznym” organizowanym przez Filharmonię Częstochowską. Orkiestra z OSP w Konopiskach wraz z grupą Mażoretek „Szyk” pięknie prezentowała się w przemarszu oraz podczas koncertu. Tematem przewodnim występu była muzyka filmowa m.in. z filmów: „Alladyn”, „Flinstonowie”, „Król Lew” oraz „Shrek”.<!--more-->
 
 Poza tym mogliśmy usłyszeć  muzykę klasyczną np.: „Jezioro Łabędzie”, muzykę ludową, marsze oraz muzykę  rozrywkową. Mażoretki  zaprezentowały publiczności dwa układy taneczne do utworu Michel Telo „ Ai se eu te pego” i samby  „Holiday in Rio”.Publiczność nagrodziła artystów gromkimi brawami.
 
@@ -1582,7 +1720,11 @@ Poza tym mogliśmy usłyszeć  muzykę klasyczną np.: „Jezioro Łabędzie”
 
 "Poranek Muzyczny" w Galerii Jurajskiej poprowadziła pani Magda Mirowska, która wprowadzała publiczność w świat muzyki. Najmłodsi z publiczności odpowiadali na pytania dotyczące nazw instrumentów, elementów uniformu orkiestry dętej  i wykonywanych utworów.
 
-Dla Orkiestry Dętej i grupy Mażoretek to początek pracowitego sezonu. Mamy nadzieję, że wszystkie koncerty - na które Państwa już teraz serdecznie zapraszamy – będą udane. Najbliższy nasz występ już w piątek 23 marca 2012 roku podczas uroczystego otwarcia Hali Sportowej w Konopiskach.]]></content:encoded>
+Dla Orkiestry Dętej i grupy Mażoretek to początek pracowitego sezonu. Mamy nadzieję, że wszystkie koncerty - na które Państwa już teraz serdecznie zapraszamy – będą udane. Najbliższy nasz występ już w piątek 23 marca 2012 roku podczas uroczystego otwarcia Hali Sportowej w Konopiskach.
+
+&nbsp;
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=619:wystp-orkiestry-dtej-osp-konopiska-oraz-maoretek-qszykq-w-galerii-jurajskiej-&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date>2012-03-19 12:12:05</wp:post_date>
@@ -1598,25 +1740,36 @@ Dla Orkiestry Dętej i grupy Mażoretek to początek pracowitego sezonu. Mamy na
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sukces orkiestry</title>
-		<link>http://localhost/orkiestra/2011/09/07/sukces-orkiestry/</link>
+		<link>http://babel.byethost4.com/2011/09/07/sukces-orkiestry/</link>
 		<pubDate>Wed, 07 Sep 2011 00:40:11 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://localhost/orkiestra/?p=149</guid>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=149</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h1>(też skopiowane)</h1>
-Orkiestra Dęta OSP Konopiska odniosła kolejny w tym roku sukces. Na odbywającym się 4 września VI Wrzesińskim Festiwalu Orkiestr Dętych we Wrześni grupa z Konopisk okazała się bezkonkurencyjna zdobywając główną nagrodę – GRAND PRIX festiwalu.<!--more-->
+		<content:encoded><![CDATA[Orkiestra Dęta OSP Konopiska odniosła kolejny w tym roku sukces. Na odbywającym się 4 września VI Wrzesińskim Festiwalu Orkiestr Dętych we Wrześni grupa z Konopisk okazała się bezkonkurencyjna zdobywając główną nagrodę – GRAND PRIX festiwalu.<!--more-->
 
 W przeglądzie uczestniczyło sześć orkiestr m.in. Orkiestra Dęta Gminy Kleszczów, Młodzieżowa Orkiestra Dęta Zespołu Szkół Elektronicznych w Bydgoszczy i  Stowarzyszenie Kulturalne Orkiestra Dęta w Swarzędzu . Po przesłuchaniu wszystkich uczestników festiwalu jury konkursowe zgodnie uznało, że najlepiej zaprezentowała się orkiestra z Konopisk, przyznając zespołowi występującemu pod batutą Tomasza Hadriana, GRAND PRIX oraz nagrodę rzeczową w postaci instrumentu muzycznego.  Był to już drugi tak duży sukces muzyków z Konopisk na tym niezwykle prestiżowym festiwalu orkiestr.
 
 W trakcie wrześniowego przeglądu muzycy wraz z orkiestrą wystąpiła również musztra paradna dziewcząt.
 
-[gallery link="file"]]]></content:encoded>
+[gallery link="file"]
+
+&nbsp;
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=391:sukces-orkiestry&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date>2011-09-07 02:40:11</wp:post_date>
@@ -1631,6 +1784,14 @@ W trakcie wrześniowego przeglądu muzycy wraz z orkiestrą wystąpiła równie�
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>

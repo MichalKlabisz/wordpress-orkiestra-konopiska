@@ -10,6 +10,8 @@
   <title><?php bloginfo('name'); wp_title(); ?></title>
   <meta name="description" content="<?php bloginfo('description'); ?>" />
   <meta name="author" content="Michal Klabisz" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Konopiska, Orkiestra, Orkiestra Dęta" />
 
   <meta name="viewport" content="width=device-width; initial-scale=1.0" />
 
@@ -29,7 +31,20 @@
   <script src="<?php bloginfo('template_url'); ?>/static/jquery-1.8.0.min.js" type="text/javascript"></script>
   <script src="<?php bloginfo('template_url'); ?>/static/jquery.corner.js" type="text/javascript"></script>
   <script src="<?php bloginfo('template_url'); ?>/static/script.js" type="text/javascript"></script>
-  
+
+<!-- Browser Update Script -->
+  <script type="text/javascript"> 
+  var $buoop = {vs:{i:7,f:3.6,o:10.6,s:5,n:9}} 
+  $buoop.ol = window.onload; 
+  window.onload=function(){ 
+   try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+   var e = document.createElement("script"); 
+   e.setAttribute("type", "text/javascript"); 
+   e.setAttribute("src", "http://browser-update.org/update.js"); 
+   document.body.appendChild(e); 
+  } 
+</script>   
+
   <?php wp_head(); ?>
 </head>
 
