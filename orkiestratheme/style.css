@@ -31,6 +31,11 @@ body {
     font-weight: 400;
 }
 
+table {
+	width: 100%;
+text-align: center;
+}
+
 .postcontent p{
   text-align: justify;
   padding: 10px 0px;
@@ -198,7 +203,6 @@ a:hover {
     background: linear-gradient(to bottom, #341211 0%,#7c3030 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#341211', endColorstr='#7c3030',GradientType=0 ); /* IE6-9 */
    /* GRADIENT END */
-    
 }
 
 
@@ -211,7 +215,10 @@ a:hover {
     color: #ffffff;
     
     margin: 15px;
-    /*text-shadow: 4px 4px 4px #aaa;*/
+    /*text-shadow: 4px 4px 4px #aaa;
+    text-shadow: 0.2em 0.2em 0.06em black;*/
+    text-shadow: 0.1em 0.1em 0.06em black;
+    
 }
 
 .menu a:hover, .menu li.current_page_item a:hover {
@@ -351,6 +358,8 @@ a:hover {
 
 .menu ul li:hover > ul li {
     display: block;
+border-left-style: none;
+
 }
 /*.menu .current-menu-item > a,
 .menu .current-menu-ancestor > a,
@@ -481,12 +490,19 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Colo
 }
 
 #footer p {
-filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+    text-shadow: 0.2em 0.2em 0.06em black;
 }
 
+#footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
 
-
-
+#footer a:hover {
+    text-decoration: underline;
+    color: #f0b800;
+}
 
 /** KOMENTARZE **/
     

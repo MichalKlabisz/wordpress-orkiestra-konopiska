@@ -7,7 +7,7 @@
                     <h1 class="title"> 
                         <a href="<?php the_permalink(); ?>"  title="<?php the_title(); ?>"><?php the_title(); ?></a>
                     </h1>
-                    <h2 class="info"> <?php the_time('l, d/m/Y, G:i');  echo ' | Autor: '; the_author_meta('user_firstname'); echo ' '; the_author_meta('user_lastname'); echo ' | '; comments_popup_link( 'Brak komentarzy', '1 komentarz', '% komentarzy', 'info', ''); ?> </h2>
+                    <h2 class="info"> <?php the_time('l, d/m/Y, G:i');  /*echo ' | Autor: '; the_author_meta('user_firstname'); echo ' '; the_author_meta('user_lastname');*/ echo ' |'; comments_popup_link( 'Brak komentarzy', '1 komentarz', '% komentarzy', 'info', ''); ?> </h2>
                     <div class="postcontent">
                         <?php /*
                         $side = $i % 2 ? "right" : "left";
@@ -32,14 +32,21 @@
                 <div id="subpagination">
                     <?php wp_link_pages(); ?>    
                 </div>
-                
-                <div class=”comments-template”>
-                <?php comments_template(); ?>
+
+                <div id="pagination" style="padding-bottom:50px;">
+                    <div style="clear: left; float:left;">
+                         <?php previous_post_link(); ?>
+                    </div>
+                    <div style="float:right; clear: right;">
+                         <?php next_post_link(); ?>
+                    </div> 
                 </div>
                 
-                <div id="pagination">
-                    <?php previous_post_link(); echo ' '; next_post_link();  ?> 
+                <div class=”comments-template” style="clear:both;">
+                    <?php comments_template(); ?>
                 </div>
+
+                
                 
             </div>
             

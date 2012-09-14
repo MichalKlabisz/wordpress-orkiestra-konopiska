@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.4.1" created="2012-09-09 00:48" -->
+<!-- generator="WordPress/3.4.1" created="2012-09-14 18:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Orkiestra Dęta OSP Konopiska</title>
 	<link>http://babel.byethost4.com</link>
 	<description>Oficjalna strona Orkiestry Dętej z Konopisk.</description>
-	<pubDate>Sun, 09 Sep 2012 00:48:09 +0000</pubDate>
+	<pubDate>Fri, 14 Sep 2012 18:39:48 +0000</pubDate>
 	<language>pl-PL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://babel.byethost4.com</wp:base_site_url>
@@ -1283,48 +1283,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Przykładowa strona</title>
-		<link>http://babel.byethost4.com/przykladowa-strona/</link>
-		<pubDate>Sun, 02 Sep 2012 23:17:59 +0000</pubDate>
-		<dc:creator>babel</dc:creator>
-		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[To jest przykładowa strona. Strony są inne niż wpisy na blogu, ponieważ nie tylko są stale umieszczone w jednym miejscu, ale także pojawiają się w menu Twojej witryny (w większości motywów). Większość ludzi umieszcza na swoich witrynach strony o sobie, na których przedstawiają się potencjalnym odwiedzającym. Przykładem takiej strony mogłoby być:
-
-<blockquote>Cześć! Za dnia jestem gońcem, a w ciągu nocy próbuję swoich sił w aktorstwie. To jest mój blog. Mieszkam w Los Angeles, mam wspaniałego psa, który nazywa się Jack i lubię pi&#241;a coladę (i spacery w deszczu).</blockquote>
-
-... lub taki tekst:
-
-<blockquote>Firma Wihajstry XYZ została założona w 1971 roku i od początku swojego istnienia zajmuje się produkcją najlepszych wihajstrów. W naszej siedzibie w Gotham City pracuje ponad 2000 osób, które zajmują się robieniem całej masy fantastycznych rzeczy dla mieszkańców miasta.</blockquote>
-
-Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://babel.byethost4.com/wp-admin/">swojego kokpitu</a>, aby usunąć tę stronę i utworzyć nowe strony z własną treścią. Baw się dobrze!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2012-09-02 23:17:59</wp:post_date>
-		<wp:post_date_gmt>2012-09-02 23:17:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>przykladowa-strona</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1346659770]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Orkiestra</title>
 		<link>http://babel.byethost4.com/orkiestra/</link>
 		<pubDate>Mon, 03 Sep 2012 08:10:25 +0000</pubDate>
@@ -1391,13 +1349,648 @@ kompozytora polskiego.</li>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Logo_GCKiR</title>
+		<link>http://babel.byethost4.com/sponsorzy/logo_gckir/</link>
+		<pubDate>Thu, 13 Sep 2012 20:06:14 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/Logo_GCKiR.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date>2012-09-13 22:06:14</wp:post_date>
+		<wp:post_date_gmt>2012-09-13 20:06:14</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>logo_gckir</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>37</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/Logo_GCKiR.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/Logo_GCKiR.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"150";s:6:"height";s:2:"66";s:14:"hwstring_small";s:23:"height='56' width='128'";s:4:"file";s:22:"2012/09/Logo_GCKiR.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbb959e6b02_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbb959e6b02_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:33 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb959e6b02_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>227</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:33</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:33</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbb959e6b02_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb959e6b02_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbb959e6b02_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbb959e6b02_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbb959e6b02_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbb959e6b02_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbb81729655_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbb81729655_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:35 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb81729655_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>228</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:35</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbb81729655_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb81729655_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbb81729655_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbb81729655_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbb81729655_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbb81729655_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbba4495f50_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbba4495f50_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:37 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbba4495f50_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>229</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:37</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbba4495f50_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbba4495f50_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbba4495f50_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbba4495f50_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbba4495f50_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbba4495f50_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbb80b42052_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbb80b42052_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:40 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb80b42052_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>230</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:40</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbb80b42052_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb80b42052_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbb80b42052_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbb80b42052_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbb80b42052_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbb80b42052_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbb93b6d9ad_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbb93b6d9ad_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:42 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb93b6d9ad_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>231</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:42</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbb93b6d9ad_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb93b6d9ad_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbb93b6d9ad_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbb93b6d9ad_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbb93b6d9ad_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbb93b6d9ad_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4fcbb921d17ef_o</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/4fcbb921d17ef_o/</link>
+		<pubDate>Fri, 14 Sep 2012 07:22:58 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb921d17ef_o.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>232</wp:post_id>
+		<wp:post_date>2012-09-14 09:22:58</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:22:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>4fcbb921d17ef_o</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>224</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/06/4fcbb921d17ef_o.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/06/4fcbb921d17ef_o.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"640";s:6:"height";s:3:"427";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2012/06/4fcbb921d17ef_o.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:27:"4fcbb921d17ef_o-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:27:"4fcbb921d17ef_o-300x200.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska02t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska02t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:01:39 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska02t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>238</wp:post_id>
+		<wp:post_date>2012-09-14 10:01:39</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:01:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska02t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska02t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska02t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska02t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska02t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska02t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296420206";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"24";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska03t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska03t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:01:48 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska03t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>239</wp:post_id>
+		<wp:post_date>2012-09-14 10:01:48</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:01:48</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska03t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska03t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska03t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska03t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska03t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska03t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296421484";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"24";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:15:"0.0666666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska12t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska12t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:01:55 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska12t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>240</wp:post_id>
+		<wp:post_date>2012-09-14 10:01:55</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:01:55</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska12t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska12t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska12t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska12t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska12t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska12t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296416734";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"24";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska73t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska73t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:20 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska73t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>241</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:20</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska73t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska73t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska73t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska73t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska73t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska73t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296417970";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:3:"185";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska78t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska78t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:25 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska78t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>242</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:25</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska78t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska78t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska78t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"403";s:6:"height";s:3:"600";s:14:"hwstring_small";s:22:"height='96' width='64'";s:4:"file";s:28:"2012/09/OSP_Konopiska78t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska78t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska78t-201x300.jpg";s:5:"width";s:3:"201";s:6:"height";s:3:"300";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296419084";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:3:"100";s:3:"iso";s:4:"1600";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska81t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska81t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:36 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska81t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>243</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:36</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska81t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska81t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska81t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska81t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska81t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska81t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296418721";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:3:"125";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska100t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska100t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:44 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska100t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>244</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:44</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska100t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska100t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska100t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:29:"2012/09/OSP_Konopiska100t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:29:"OSP_Konopiska100t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:29:"OSP_Konopiska100t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296419877";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:3:"112";s:3:"iso";s:4:"1600";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska110t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska110t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:51 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska110t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>245</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:51</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:51</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska110t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska110t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska110t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:29:"2012/09/OSP_Konopiska110t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:29:"OSP_Konopiska110t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:29:"OSP_Konopiska110t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296420904";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"29";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska111t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska111t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:02:57 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska111t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>246</wp:post_id>
+		<wp:post_date>2012-09-14 10:02:57</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:02:57</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska111t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska111t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska111t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:29:"2012/09/OSP_Konopiska111t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:29:"OSP_Konopiska111t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:29:"OSP_Konopiska111t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296420700";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"46";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska55t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska55t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:03:30 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska55t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>247</wp:post_id>
+		<wp:post_date>2012-09-14 10:03:30</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:03:30</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska55t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska55t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska55t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska55t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska55t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska55t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296416623";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"46";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska19t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska19t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:03:37 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska19t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>248</wp:post_id>
+		<wp:post_date>2012-09-14 10:03:37</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:03:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska19t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska19t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska19t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska19t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska19t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska19t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296414894";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"38";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:15:"0.0166666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>OSP_Konopiska33t</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/osp_konopiska33t/</link>
+		<pubDate>Fri, 14 Sep 2012 08:03:44 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska33t.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>249</wp:post_id>
+		<wp:post_date>2012-09-14 10:03:44</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 08:03:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>osp_konopiska33t</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>237</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://babel.byethost4.com/wp-content/uploads/2012/09/OSP_Konopiska33t.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2012/09/OSP_Konopiska33t.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";s:3:"800";s:6:"height";s:3:"537";s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2012/09/OSP_Konopiska33t.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:3:{s:4:"file";s:28:"OSP_Konopiska33t-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";}s:6:"medium";a:3:{s:4:"file";s:28:"OSP_Konopiska33t-300x201.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"201";}}s:10:"image_meta";a:10:{s:8:"aperture";s:1:"4";s:6:"credit";s:16:"Sebastian Adamus";s:6:"camera";s:10:"NIKON D700";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1296414983";s:9:"copyright";s:16:"SEBASTIAN ADAMUS";s:12:"focal_length";s:2:"70";s:3:"iso";s:4:"4000";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Przykładowa strona</title>
+		<link>http://babel.byethost4.com/przykladowa-strona/</link>
+		<pubDate>Sun, 02 Sep 2012 23:17:59 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[To jest przykładowa strona. Strony są inne niż wpisy na blogu, ponieważ nie tylko są stale umieszczone w jednym miejscu, ale także pojawiają się w menu Twojej witryny (w większości motywów). Większość ludzi umieszcza na swoich witrynach strony o sobie, na których przedstawiają się potencjalnym odwiedzającym. Przykładem takiej strony mogłoby być:
+
+<blockquote>Cześć! Za dnia jestem gońcem, a w ciągu nocy próbuję swoich sił w aktorstwie. To jest mój blog. Mieszkam w Los Angeles, mam wspaniałego psa, który nazywa się Jack i lubię pi&#241;a coladę (i spacery w deszczu).</blockquote>
+
+... lub taki tekst:
+
+<blockquote>Firma Wihajstry XYZ została założona w 1971 roku i od początku swojego istnienia zajmuje się produkcją najlepszych wihajstrów. W naszej siedzibie w Gotham City pracuje ponad 2000 osób, które zajmują się robieniem całej masy fantastycznych rzeczy dla mieszkańców miasta.</blockquote>
+
+Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://babel.byethost4.com/wp-admin/">swojego kokpitu</a>, aby usunąć tę stronę i utworzyć nowe strony z własną treścią. Baw się dobrze!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date>2012-09-02 23:17:59</wp:post_date>
+		<wp:post_date_gmt>2012-09-02 23:17:59</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>przykladowa-strona</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1346659770]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Multimedia</title>
 		<link>http://babel.byethost4.com/multimedia/</link>
 		<pubDate>Mon, 03 Sep 2012 08:10:56 +0000</pubDate>
 		<dc:creator>babel</dc:creator>
 		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=32</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h1>Wybierz kategorię z menu.</h1>
+		<content:encoded><![CDATA[<h6>Wybierz podkategorię:</h6>
+<ul>
+	<li><a title="Filmy" href="http://babel.byethost4.com/multimedia/filmy/">Filmy</a></li>
+	<li><a title="Zdjęcia" href="http://babel.byethost4.com/multimedia/zdjecia/">Zdjęcia</a></li>
+</ul>
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
@@ -1462,42 +2055,18 @@ Proponujemy atrakcyjną oprawe muzyczną:
 		<dc:creator>babel</dc:creator>
 		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=37</guid>
 		<description></description>
-		<content:encoded><![CDATA[<style type='text/css'>
-			#gallery-1 {
-				margin: auto;
-			}
-			#gallery-1 .gallery-item {
-				float: left;
-				margin-top: 10px;
-				text-align: center;
-				width: 33%;
-			}
-			#gallery-1 img {
-				border: 2px solid #cfcfcf;
-			}
-			#gallery-1 .gallery-caption {
-				margin-left: 0;
-			}
-		</style>
-		<!-- see gallery_shortcode() in wp-includes/media.php -->
-		<div id='gallery-1' class='gallery galleryid-37 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
-			<dt class='gallery-icon'>
-				<a href='http://konopiska.pl' title='Konopiska'><img width="150" height="36" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp1.jpg" class="attachment-thumbnail" alt="Konopiska" title="Konopiska" /></a>
-			</dt></dl><dl class='gallery-item'>
-			<dt class='gallery-icon'>
-				<a href='http://www.sklepakord.pl/' title='Akord'><img width="104" height="110" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp2.jpg" class="attachment-thumbnail" alt="Akord" title="Akord" /></a>
-			</dt></dl><dl class='gallery-item'>
-			<dt class='gallery-icon'>
-				<a href='http://palysz.pl' title='Kuznia Palysz'><img width="150" height="48" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp3.jpg" class="attachment-thumbnail" alt="Kuznia Palysz" title="Kuznia Palysz" /></a>
-			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
-			<dt class='gallery-icon'>
-				<a href='http://mat84.aplus.pl/waldek/strona/' title='Waldek Nowakowski'><img width="150" height="57" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp4.png" class="attachment-thumbnail" alt="Waldek Nowakowski" title="Waldek Nowakowski" /></a>
-			</dt></dl><dl class='gallery-item'>
-			<dt class='gallery-icon'>
-				<a href='http://aleksandria.pl' title='Aleksandria'><img width="150" height="84" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp5.jpg" class="attachment-thumbnail" alt="Aleksandria" title="Aleksandria" /></a>
-			</dt></dl>
-			<br style='clear: both;' />
-		</div>]]></content:encoded>
+		<content:encoded><![CDATA[    <table>
+    <tr>
+        <td><a title="Konopiska" href="http://konopiska.pl"><img class="attachment-thumbnail" title="Konopiska" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp1.jpg" alt="Konopiska" width="150" height="36" /></a></td>
+        <td><a title="Akord" href="http://www.sklepakord.pl/"><img class="attachment-thumbnail" title="Akord" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp2.jpg" alt="Akord" width="104" height="110" /></a></td>
+        <td><a title="Kuznia Palysz" href="http://palysz.pl"><img class="attachment-thumbnail" title="Kuznia Palysz" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp3.jpg" alt="Kuznia Palysz" width="150" height="48" /></a></td>
+    </tr>
+    <tr>
+        <td><a title="Waldek Nowakowski" href="http://mat84.aplus.pl/waldek/strona/"><img class="attachment-thumbnail" title="Waldek Nowakowski" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp4.png" alt="Waldek Nowakowski" width="150" height="57" /></a></td>
+        <td><a title="Aleksandria" href="http://aleksandria.pl"><img class="attachment-thumbnail" title="Aleksandria" src="http://babel.byethost4.com/wp-content/uploads/2012/09/sp5.jpg" alt="Aleksandria" width="150" height="84" /></a></td>
+        <td><a title="Logo_GCKiR" href="http://gckirkonopiska.pl/"><img src="http://babel.byethost4.com/wp-content/uploads/2012/09/Logo_GCKiR.jpg" alt="" title="Logo GCKiR" width="150" height="66" class="alignnone size-full wp-image-222" /></a></td>
+    </tr>
+    </table>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date>2012-09-03 10:11:39</wp:post_date>
@@ -1609,7 +2178,21 @@ Jacek Walentek</strong> (+48) 607-271-427
 		<dc:creator>babel</dc:creator>
 		<guid isPermaLink="false">http://babel.byethost4.com/?page_id=102</guid>
 		<description></description>
-		<content:encoded><![CDATA[<iframe width="560" height="315" src="http://www.youtube.com/embed/96pkOvYPT7A?list=UUhEoLRgl9TO4tY1hxS3q09A&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+		<content:encoded><![CDATA[<iframe width="790" height="444" src="http://www.youtube.com/embed/DYy0sRlxmIU" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/PfPkjcjJEIk" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/K2LbOADSsxE" frameborder="0" allowfullscreen></iframe>
+<iframe width="790" height="593" src="http://www.youtube.com/embed/2_gGVk93zLA" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/G2k30kr2oow" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/xHZZfh6DWnw" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/sG08fF30g5A" frameborder="0" allowfullscreen></iframe>
+<!--nextpage-->
+<iframe width="790" height="444" src="http://www.youtube.com/embed/5JihJ8oqccc" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/qxmWH9-WqVM" frameborder="0" allowfullscreen></iframe>
+<iframe width="790" height="444" src="http://www.youtube.com/embed/AXgsFuY9rcA" frameborder="0" allowfullscreen></iframe>
+<iframe width="790" height="444" src="http://www.youtube.com/embed/GPrw73qmkrs" frameborder="0" allowfullscreen></iframe>
+<iframe width="790" height="444" src="http://www.youtube.com/embed/gqzs7T8TldM" frameborder="0" allowfullscreen></iframe>
+<iframe width="789" height="444" src="http://www.youtube.com/embed/QuHcCSHhG_Y" frameborder="0" allowfullscreen></iframe>
+
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>102</wp:post_id>
@@ -1794,6 +2377,153 @@ W trakcie wrześniowego przeglądu muzycy wraz z orkiestrą wystąpiła równie�
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Kryształowe Koło</title>
+		<link>http://babel.byethost4.com/2012/06/07/krysztalowe-kolo/</link>
+		<pubDate>Thu, 07 Jun 2012 07:12:57 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=224</guid>
+		<description></description>
+		<content:encoded><![CDATA[Orkiestra OSP Konopiska wraz z mażoretkami "Szyk" zdobyli główną nagrodę w kategorii PARADA MARSZOWA VI Turnieju Orkiestr Dętych o " KRYSZTAŁOWE KOŁO " w Kole. Ponadto w konkursie scenicznym orkiestra zdobyła wyróżnienie za najlepsze wykonanie utworu kompozytora polskiego. <!--more-->O nagrody – w dwóch kategoriach: grze koncertowej oraz grze marszowej walczyło pięć orkiestr: Orkiestra Deta OSP Konopiska, Orkiestra Deta OSP Mykanów, Orkiestra Deta OSP Wręczyca Wielka, Orkiestra Deta OSP ZHP Uniejów, Orkiestra Deta OSP Poddębice. Turniej Orkiestr Dętych o "Kryształowe Koło" odbył się już po raz szósty.
+
+[gallery link="file"]
+
+Na video oraz fotorelację zapraszamy <a href="http://kolo.naszemiasto.pl/artykul/galeria/1428991,turniej-orkiestr-detych-o-krysztalowe-kolo,id,t.html">tutaj</a>
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=706:gratulacje-dla-orkiestry-osp-konopiska-oraz-maoretek-qszykq-za-zdobycie-qkrysztaowego-koaq&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>224</wp:post_id>
+		<wp:post_date>2012-06-07 09:12:57</wp:post_date>
+		<wp:post_date_gmt>2012-06-07 07:12:57</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>krysztalowe-kolo</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Kolejne sukcesy naszej orkiestry</title>
+		<link>http://babel.byethost4.com/2012/09/14/kolejne-sukcesy-naszej-orkiestry/</link>
+		<pubDate>Fri, 14 Sep 2012 07:34:00 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=235</guid>
+		<description></description>
+		<content:encoded><![CDATA[W czerwcu Orkiestra Dęta OSP Konopiska uczestniczyła w dwóch ważnych i prestiżowych festiwalach. Z obu nasi muzycy wrócili z nagrodami. Między 24 a 25 czerwca muzycy z Konopisk wzięli udział w Ogólnopolskim Festiwalu Strażackich Orkiestr Dętych w Krynicy Zdroju. W przeglądzie wystartowało blisko dwadzieścia najlepszych zespołów z całej Polski. Z Krynicy zespół występujący pod batutą kapelmistrza Tomasza Hadriana przywiózł czwarte miejsce. Natomiast 26 czerwca orkiestra  z Konopisk występowała  na kolejnej ważnej tegorocznej imprezie muzycznej. W Kozach koło Bielska nasi muzycy wzięli udział  w VIII Międzynarodowym Festiwalu Orkiestr Dętych „Złota Trąbka”. Z tego przeglądu zespół wrócił z kilkoma prestiżowymi nagrodami. Orkiestra otrzymała: Złoty Dyplom i Grand Prix. Ponadto kapelmistrz orkiestry Tomasz Hadrian został nagrodzony  <strong>Pucharem Jacka Falfusa</strong> - posła na sejm RP za najciekawsze wykonanie utworu narodowego kompozytora oraz <strong>Pucharem  Rektora Akademii Muzycznej im. Karola Szymanowskiego w Katowicach</strong><strong> </strong>dla najlepszego kapelmistrza. Na obu festiwalach muzykom towarzyszyła grupa mażoretek.
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=325:kolejne-sukcesy-naszej-orkiestry-dtej&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date>2012-09-14 09:34:00</wp:post_date>
+		<wp:post_date_gmt>2012-09-14 07:34:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>kolejne-sukcesy-naszej-orkiestry</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1347608072]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Koncert Jubileuszowy</title>
+		<link>http://babel.byethost4.com/2011/01/30/koncert-jubileuszowy/</link>
+		<pubDate>Sun, 30 Jan 2011 09:04:15 +0000</pubDate>
+		<dc:creator>babel</dc:creator>
+		<guid isPermaLink="false">http://babel.byethost4.com/?p=237</guid>
+		<description></description>
+		<content:encoded><![CDATA[Niedzielnym koncertem w kościele pw. św. Walentego w Konopiskach uczciła swoje 30-lecie Orkiestra Dęta OSP Konopiska.
+
+Na dwie godziny świątynia zamieniła się w salę koncertową. Wieczorny koncert orkiestry dętej z Konopisk zgromadził prawdziwe tłumy. Wszystkie miejsca siedzące, także te specjalnie dostawione z okazji jubileuszu, były zajęte. <!--more--> Sporo melomanów słuchało koncertu na stojąco. Kto wybrał się na ten koncert, z pewnością nie żałował. Orkiestra pod batutą Tomasza Hadriana pokazała, że słusznie od lat znajduje się w czołówce orkiestr dętych w Polsce. Muzycy zaproponowali oryginalny i ciekawy repertuar. Oprócz typowych dla tego rodzaju zespołów utworów marszowych można było wysłuchać utworów muzyki klasycznej oraz muzyki filmowej. Ta ostatnia zdominowała zresztą repertuar koncertu. Słuchacze mogli wysłuchać wyśmienitych wykonań muzyki do takich filmowych hitów, jak „Gladiator”, „Misja”, „Robin Hood”, „Gwiezdne wojny”, „Indiana Jones”, „Park jurajski” czy „Za horyzontem”. Widzowie brawami na stojąco nagrodzili te wykonania. Koncert spodobał się im tak bardzo, że nie wypuścili muzyków bez dwóch bisów. Koncert poprowadziła Tamara Gwóźdź.
+
+[gallery link="file" columns="4"]
+
+Wśród gości koncertu znaleźli się m.in. przedstawiciele gminnego samorządu: wójt Jerzy Socha oraz skarbnik gminy Anna Misiak. Wójt nagrodził orkiestrę okolicznościową statuetką, życząc muzykom kolejnych lat działalności i wspaniałych sukcesów na arenie ogólnopolskiej oraz między narodowej. Jerzy Socha przekazał na ręce Tomasza Hadriana certyfikat potwierdzający zakup dla orkiestry nowego instrumentu dętego – tuby. Na ten zakup gmina przekazała orkiestrze 16,5 tys. złotych.
+
+Jubileuszowy koncert był również okazją do złożenia podziękowań nie tylko obecnym, ale i poprzednim muzykom związanym z zespołem. Wójt Jerzy Socha uhonorował wydanym przez gminę w ramach 600-lecia Konopisk medalem „Za Zasługi dla Gminy Konopiska” byłego kapelmistrza orkiestry Wiesława Pitulskiego.
+
+<em><strong>Powyższa informacja pochodzi ze strony <a href="http://www.konopiska.pl/index.php?option=com_content&amp;view=article&amp;id=201:jubileusz-orkiestry&amp;catid=50:kultura&amp;Itemid=38" target="_blank">konopiska.pl</a></strong></em>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date>2011-01-30 10:04:15</wp:post_date>
+		<wp:post_date_gmt>2011-01-30 09:04:15</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>koncert-jubileuszowy</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="bez-kategorii"><![CDATA[Bez kategorii]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pingme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
